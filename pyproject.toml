@@ -5,7 +5,9 @@ description = ""
 authors = [
     {name = "posky", email = "pjm5810@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "bardapi>=0.1.38",
+]
 requires-python = ">=3.12"
 readme = "README.md"
 license = {text = "MIT"}
